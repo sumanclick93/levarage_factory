@@ -415,8 +415,11 @@ foreach ($sliced_referrals as $ref) {
                     <?php endif; ?>
                 </div>
             </div>
-            
-            <div class="flex gap-4">
+            <div class="flex gap-4 items-center">
+                <a href="email_manager.php?user_id=<?php echo $uid; ?>" class="bg-[#00A6FB]/10 text-[#00A6FB] border border-[#00A6FB]/20 hover:bg-[#00A6FB]/20 transition-all font-bold px-4 py-3 rounded-2xl text-xs uppercase tracking-widest flex items-center gap-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                    <span>Send Email</span>
+                </a>
                 <div class="bg-white p-4 rounded-2xl border border-gray-100 shadow-sm text-right">
                     <p class="text-[9px] font-black text-gray-400 uppercase tracking-widest">Available_Balance</p>
                     <p class="text-xl font-black text-gray-900">$<?php echo number_format($user_data['wallet_balance'], 2); ?></p>
