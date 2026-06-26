@@ -1,0 +1,96 @@
+.elementor-401 .elementor-element.elementor-element-b9194bb{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:center;--z-index:5;}.elementor-401 .elementor-element.elementor-element-b9194bb:not(.elementor-motion-effects-element-type-background), .elementor-401 .elementor-element.elementor-element-b9194bb > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#CCCCCC00;}.elementor-widget-theme-site-logo .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-401 .elementor-element.elementor-element-8e6c35c img{width:208px;}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-accent );fill:var( --e-global-color-accent );}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-nav-menu{--e-nav-menu-divider-color:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-401 .elementor-element.elementor-element-bd79db1 .elementor-menu-toggle{margin:0 auto;}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}/* Start custom CSS for container, class: .elementor-element-b9194bb *//* =========================================
+   HEADER: GLASSMORPHISM OBSIDIANA (SEM BRANCO)
+========================================= */
+.elementor-401 .elementor-element.elementor-element-b9194bb {
+  background: rgba(10, 25, 35, 0.4) !important; /* Vidro escuro denso, sem cor branca */
+  backdrop-filter: blur(18px) saturate(135%);
+  -webkit-backdrop-filter: blur(18px) saturate(135%);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* Divisor sutil e técnico */
+  z-index: 9999;
+}
+
+/* =========================================
+   MENU: TEXTO BRANCO PURO
+========================================= */
+.elementor-401 .elementor-element.elementor-element-b9194bb .elementor-nav-menu .menu-item a {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 13px !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.12em !important;
+    padding: 10px 15px !important;
+    position: relative;
+    
+    /* Forçando branco em tudo conforme solicitado */
+    color: #ffffff !important; 
+    mix-blend-mode: normal !important; 
+    
+    transition: color 0.3s ease;
+}
+
+/* Hover: Ciano da Marca para manter a identidade */
+.elementor-401 .elementor-element.elementor-element-b9194bb .elementor-nav-menu .menu-item a:hover {
+    color: #22E0E8 !important; 
+}
+
+/* =========================================
+   BOTÃO LOGIN: WHITE OUTLINE & TEXT
+========================================= */
+.lf-login-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: 999px;
+
+  /* Outline Branco conforme solicitado */
+  border: 1px solid #ffffff !important; 
+  background: rgba(255, 255, 255, 0.05) !important; 
+  
+  color: #ffffff !important; /* Texto e elementos internos Brancos */
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  
+  transition: all 0.3s ease;
+}
+
+.lf-login-btn .lf-login-icon {
+  color: #ffffff !important; /* Ícone também segue o branco puro */
+}
+
+/* Hover do Botão: Brilho Ciano institucional */
+.lf-login-btn:hover {
+  background: rgba(34, 224, 232, 0.1) !important;
+  border-color: #22E0E8 !important;
+  color: #22E0E8 !important;
+  transform: translateY(-1px);
+}
+
+.lf-login-btn:hover .lf-login-icon {
+  color: #22E0E8 !important;
+}
+
+/* =========================================
+   UNDERLINE KINETIC (CIANO)
+========================================= */
+.elementor-401 .elementor-element.elementor-element-b9194bb .elementor-nav-menu .menu-item a::after {
+    content: "";
+    position: absolute;
+    bottom: 0; left: 15px; right: 15px; height: 2px;
+    background-color: #22E0E8;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.elementor-401 .elementor-element.elementor-element-b9194bb .elementor-nav-menu .menu-item a:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+}/* End custom CSS */

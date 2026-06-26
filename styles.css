@@ -1,0 +1,75 @@
+/* Custom styles for Leverage Factory Portal */
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f5f9; /* gray-100 */
+}
+
+::-webkit-scrollbar-thumb {
+    background: #94a3b8; /* gray-400 */
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #64748b; /* gray-500 */
+}
+
+/* Grid background */
+.bg-grid-gray-200 {
+    background-image: linear-gradient(to right, #e5e7eb 1px, transparent 1px), 
+                      linear-gradient(to bottom, #e5e7eb 1px, transparent 1px);
+    background-size: 2rem 2rem;
+}
+
+/* Smooth transitions */
+.transition-all {
+    transition: all 0.3s ease;
+}
+
+/* Hidden class */
+.hidden {
+    display: none !important;
+}
+
+/* Fade in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+/* Modal backdrop */
+.modal-backdrop {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 50;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Responsive utilities */
+@media (max-width: 768px) {
+    .mobile-menu-closed {
+        transform: translateX(-100%);
+    }
+    
+    .mobile-menu-open {
+        transform: translateX(0);
+    }
+}

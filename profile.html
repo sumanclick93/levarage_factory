@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile & KYC - Leverage Factory</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 flex h-screen">
+    <!-- Sidebar -->
+    <aside class="w-64 bg-white border-r border-gray-200 flex flex-col">
+        <div class="px-4 py-7 flex items-center gap-2">
+            <svg width="40" height="40" viewBox="0 0 48 48" fill="none"><path d="M8 20L16 12L28 20L40 10" stroke="#00A6FB" stroke-width="2"/><circle cx="8" cy="20" r="3" stroke="#00A6FB" stroke-width="2" fill="#e2e8f0"/><circle cx="16" cy="12" r="3" stroke="#00A6FB" stroke-width="2" fill="#e2e8f0"/><circle cx="28" cy="20" r="3" stroke="#00A6FB" stroke-width="2" fill="#e2e8f0"/><circle cx="40" cy="10" r="3" stroke="#00A6FB" stroke-width="2" fill="#e2e8f0"/><rect x="13" y="24" width="6" height="16" rx="2" fill="#00A6FB"/><rect x="21" y="28" width="6" height="12" rx="2" fill="#0087CF"/><rect x="29" y="22" width="6" height="18" rx="2" fill="#0068A3"/></svg>
+            <div class="flex flex-col"><span class="text-lg font-bold text-gray-900">LEVERAGE</span><span class="text-sm font-light text-gray-500 -mt-1">FACTORY</span></div>
+        </div>
+        <nav class="flex-1 px-2"><ul class="space-y-2">
+            <li><a href="dashboard.html" class="flex items-center p-3 my-1 rounded-md text-gray-600 hover:bg-gray-100"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20V10"/><path d="M18 20V4"/><path d="M6 20V16"/></svg><span class="ml-4 font-medium">Dashboard</span></a></li>
+            <li><a href="copy-trading.html" class="flex items-center p-3 my-1 rounded-md text-gray-600 hover:bg-gray-100"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg><span class="ml-4 font-medium">Copy Trading</span></a></li>
+            <li><a href="wallet.html" class="flex items-center p-3 my-1 rounded-md text-gray-600 hover:bg-gray-100"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12V7H5a2 2 0 0 1 0-4h14v4"/><path d="M3 5v14a2 2 0 0 0 2 2h16v-5"/><path d="M18 12a2 2 0 0 0 0 4h4v-4Z"/></svg><span class="ml-4 font-medium">E-Wallet</span></a></li>
+            <li><a href="network.html" class="flex items-center p-3 my-1 rounded-md text-gray-600 hover:bg-gray-100"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/></svg><span class="ml-4 font-medium">My Network</span></a></li>
+            <li><a href="profile.html" class="flex items-center p-3 my-1 rounded-md bg-[#00A6FB] text-white shadow-lg"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg><span class="ml-4 font-medium">Profile & KYC</span></a></li>
+        </ul></nav>
+        <div class="px-2 mb-4"><div class="border-t border-gray-200 my-4"></div><a href="index.html" class="flex items-center p-3 rounded-md text-gray-600 hover:bg-gray-100"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg><span class="ml-4 font-medium">Logout</span></a></div>
+    </aside>
+
+    <main class="flex-1 overflow-y-auto p-8">
+        <div class="space-y-8">
+            <div>
+                <h1 class="text-3xl font-bold text-gray-900">Profile & KYC</h1>
+                <p class="text-gray-500 mt-1">Manage your account settings and verification</p>
+            </div>
+
+            <!-- Personal Information -->
+            <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6">
+                <h2 class="text-xl font-semibold mb-4 text-gray-900">Personal Information</h2>
+                <form class="space-y-4">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Full Name</label>
+                            <input type="text" value="John Doe" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Email Address</label>
+                            <input type="email" value="john.doe@example.com" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Phone Number</label>
+                            <input type="tel" value="+1 234 567 8900" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Country</label>
+                            <select class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500">
+                                <option>United States</option>
+                                <option>Canada</option>
+                                <option>United Kingdom</option>
+                                <option>Australia</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div>
+                        <button type="submit" class="px-6 py-2 bg-[#00A6FB] text-white rounded-md font-semibold hover:bg-[#0087CF] transition">Save Changes</button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- KYC Verification -->
+            <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6">
+                <h2 class="text-xl font-semibold mb-4 text-gray-900">KYC Verification</h2>
+                <div class="space-y-4">
+                    <div class="flex items-center justify-between p-4 bg-green-50 border border-green-200 rounded-lg">
+                        <div class="flex items-center gap-3">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                            <div>
+                                <p class="font-medium text-gray-900">Email Verification</p>
+                                <p class="text-sm text-gray-600">Your email has been verified</p>
+                            </div>
+                        </div>
+                        <span class="px-3 py-1 bg-green-600 text-white rounded-full text-xs font-semibold">Verified</span>
+                    </div>
+                    <div class="flex items-center justify-between p-4 bg-green-50 border border-green-200 rounded-lg">
+                        <div class="flex items-center gap-3">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                            <div>
+                                <p class="font-medium text-gray-900">Phone Verification</p>
+                                <p class="text-sm text-gray-600">Your phone has been verified</p>
+                            </div>
+                        </div>
+                        <span class="px-3 py-1 bg-green-600 text-white rounded-full text-xs font-semibold">Verified</span>
+                    </div>
+                    <div class="flex items-center justify-between p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
+                        <div class="flex items-center gap-3">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#F59E0B" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                            <div>
+                                <p class="font-medium text-gray-900">Identity Verification</p>
+                                <p class="text-sm text-gray-600">Upload ID document (passport, license)</p>
+                            </div>
+                        </div>
+                        <button class="px-4 py-2 bg-[#00A6FB] text-white rounded-md text-sm font-semibold hover:bg-[#0087CF] transition">Upload</button>
+                    </div>
+                    <div class="flex items-center justify-between p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
+                        <div class="flex items-center gap-3">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#F59E0B" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                            <div>
+                                <p class="font-medium text-gray-900">Address Verification</p>
+                                <p class="text-sm text-gray-600">Upload proof of address (utility bill)</p>
+                            </div>
+                        </div>
+                        <button class="px-4 py-2 bg-[#00A6FB] text-white rounded-md text-sm font-semibold hover:bg-[#0087CF] transition">Upload</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Security Settings -->
+            <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6">
+                <h2 class="text-xl font-semibold mb-4 text-gray-900">Security Settings</h2>
+                <div class="space-y-4">
+                    <div class="flex items-center justify-between p-4 border border-gray-200 rounded-lg">
+                        <div>
+                            <p class="font-medium text-gray-900">Two-Factor Authentication (2FA)</p>
+                            <p class="text-sm text-gray-600">Add an extra layer of security to your account</p>
+                        </div>
+                        <button class="px-4 py-2 border border-gray-300 text-gray-700 rounded-md text-sm font-semibold hover:bg-gray-50 transition">Enable</button>
+                    </div>
+                    <div class="flex items-center justify-between p-4 border border-gray-200 rounded-lg">
+                        <div>
+                            <p class="font-medium text-gray-900">Change Password</p>
+                            <p class="text-sm text-gray-600">Update your password regularly for security</p>
+                        </div>
+                        <button class="px-4 py-2 border border-gray-300 text-gray-700 rounded-md text-sm font-semibold hover:bg-gray-50 transition">Change</button>
+                    </div>
+                    <div class="flex items-center justify-between p-4 border border-gray-200 rounded-lg">
+                        <div>
+                            <p class="font-medium text-gray-900">API Keys</p>
+                            <p class="text-sm text-gray-600">Manage API keys for trading integrations</p>
+                        </div>
+                        <button class="px-4 py-2 border border-gray-300 text-gray-700 rounded-md text-sm font-semibold hover:bg-gray-50 transition">Manage</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

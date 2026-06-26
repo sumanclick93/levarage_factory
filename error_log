@@ -1,0 +1,835 @@
+[02-Mar-2026 16:28:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/wirejybl/leveragefactory.ai/dashboard.php:19
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/dashboard.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/dashboard.php on line 19
+[02-Mar-2026 16:30:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/wirejybl/leveragefactory.ai/dashboard.php:19
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/dashboard.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/dashboard.php on line 19
+[02-Mar-2026 16:30:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/wirejybl/leveragefactory.ai/dashboard.php:19
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/dashboard.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/dashboard.php on line 19
+[02-Mar-2026 16:30:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/wirejybl/leveragefactory.ai/dashboard.php:19
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/dashboard.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/dashboard.php on line 19
+[02-Mar-2026 16:31:36 UTC] PHP Warning:  Undefined variable $active_capital in /home/wirejybl/leveragefactory.ai/dashboard.php on line 109
+[02-Mar-2026 16:31:36 UTC] PHP Warning:  Undefined variable $active_capital in /home/wirejybl/leveragefactory.ai/dashboard.php on line 184
+[02-Mar-2026 16:31:36 UTC] PHP Warning:  Undefined variable $active_capital in /home/wirejybl/leveragefactory.ai/dashboard.php on line 276
+[02-Mar-2026 16:31:36 UTC] PHP Warning:  Undefined variable $active_capital in /home/wirejybl/leveragefactory.ai/dashboard.php on line 311
+[02-Mar-2026 16:33:41 UTC] PHP Warning:  Undefined variable $active_capital in /home/wirejybl/leveragefactory.ai/dashboard.php on line 109
+[02-Mar-2026 16:33:41 UTC] PHP Warning:  Undefined variable $active_capital in /home/wirejybl/leveragefactory.ai/dashboard.php on line 184
+[02-Mar-2026 16:33:41 UTC] PHP Warning:  Undefined variable $active_capital in /home/wirejybl/leveragefactory.ai/dashboard.php on line 276
+[02-Mar-2026 16:33:41 UTC] PHP Warning:  Undefined variable $active_capital in /home/wirejybl/leveragefactory.ai/dashboard.php on line 311
+[05-Mar-2026 11:20:45 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/wirejybl/leveragefactory.ai/wallet.php on line 103
+[05-Mar-2026 12:27:44 UTC] PHP Warning:  require_once(/home/wirejybl/leveragefactory.ai/../includes/db_connect.php): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/profile.php on line 2
+[05-Mar-2026 12:27:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wirejybl/leveragefactory.ai/../includes/db_connect.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wirejybl/leveragefactory.ai/profile.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/profile.php on line 2
+[09-Mar-2026 10:00:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/wirejybl/leveragefactory.ai/network_stats.php:70
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/network_stats.php(70): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/network_stats.php on line 70
+[09-Mar-2026 10:32:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/wirejybl/leveragefactory.ai/dashboard.php:177
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/dashboard.php(177): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/dashboard.php on line 177
+[13-Mar-2026 06:56:55 UTC] PHP Warning:  Undefined variable $uid in /home/wirejybl/leveragefactory.ai/dashboard.php on line 180
+[13-Mar-2026 06:56:55 UTC] PHP Warning:  Undefined variable $uid in /home/wirejybl/leveragefactory.ai/dashboard.php on line 180
+[13-Mar-2026 06:56:55 UTC] PHP Warning:  Undefined variable $uid in /home/wirejybl/leveragefactory.ai/dashboard.php on line 180
+[15-Mar-2026 11:18:57 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:20:33 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:21:16 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:21:59 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:22:42 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:23:25 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:24:08 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:24:51 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:25:34 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:26:18 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:27:00 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:27:40 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:28:20 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[15-Mar-2026 11:29:00 UTC] PHP Warning:  file_get_contents(email_template.html): Failed to open stream: No such file or directory in /home/wirejybl/leveragefactory.ai/announcement.php on line 20
+[23-Mar-2026 08:36:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '=' in /home/wirejybl/leveragefactory.ai/register.php:28
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/register.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/register.php on line 28
+[29-Mar-2026 22:34:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[29-Mar-2026 22:34:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[29-Mar-2026 22:34:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[08-Apr-2026 09:24:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[08-Apr-2026 09:24:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[08-Apr-2026 17:01:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Apr-2026 11:39:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Apr-2026 15:20:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '=' in /home/wirejybl/leveragefactory.ai/register.php:28
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/register.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/register.php on line 28
+[09-Apr-2026 15:21:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '=' in /home/wirejybl/leveragefactory.ai/register.php:28
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/register.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/register.php on line 28
+[09-Apr-2026 15:22:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '=' in /home/wirejybl/leveragefactory.ai/register.php:28
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/register.php(28): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/register.php on line 28
+[12-Apr-2026 17:21:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 17:21:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 17:21:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 17:22:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 17:29:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 17:31:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 17:42:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 17:57:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 17:57:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 18:06:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 18:32:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 18:37:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:18:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:18:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:25:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 19:25:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:26:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:26:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:26:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:27:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:27:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 19:27:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:28:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:49:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 19:50:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/register.php:27
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/register.php(27): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/register.php on line 27
+[12-Apr-2026 20:49:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 21:02:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 21:12:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 21:18:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 21:18:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 21:46:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 22:13:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 22:23:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 22:23:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 22:23:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 22:23:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 22:51:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:00:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:01:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:02:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:02:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:02:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:02:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:03:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:03:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:03:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:44:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:44:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:44:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:45:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:45:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:45:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:45:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:45:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:46:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:46:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:46:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:47:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:49:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[12-Apr-2026 23:50:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:50:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:50:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:50:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:50:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:50:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:50:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:51:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:51:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:53:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[12-Apr-2026 23:53:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[13-Apr-2026 00:00:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 01:13:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[13-Apr-2026 01:28:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 01:28:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 01:44:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 01:53:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[13-Apr-2026 02:04:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[13-Apr-2026 02:17:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 02:18:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 02:18:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 02:37:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/register.php:27
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/register.php(27): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/register.php on line 27
+[13-Apr-2026 02:37:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/register.php:27
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/register.php(27): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/register.php on line 27
+[13-Apr-2026 02:39:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/register.php:27
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/register.php(27): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/register.php on line 27
+[13-Apr-2026 03:11:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/register.php:27
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/register.php(27): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/register.php on line 27
+[13-Apr-2026 03:11:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 03:57:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[13-Apr-2026 04:07:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[13-Apr-2026 04:12:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 04:13:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 04:29:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 04:30:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 04:47:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[13-Apr-2026 04:48:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[13-Apr-2026 04:48:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.blogs' doesn't exist in /home/wirejybl/leveragefactory.ai/index.php:1527
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/index.php(1527): PDO->query()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/index.php on line 1527
+[13-Apr-2026 04:48:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wirejybl_levarage.users' doesn't exist in /home/wirejybl/leveragefactory.ai/login.php:10
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/login.php(10): PDO->prepare()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/login.php on line 10
+[15-Apr-2026 12:45:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[15-Apr-2026 18:18:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[15-Apr-2026 18:18:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[17-Apr-2026 04:03:17 UTC] PHP Warning:  Undefined array key "email" in /home/wirejybl/leveragefactory.ai/login.php on line 7
+[17-Apr-2026 04:03:17 UTC] PHP Warning:  Undefined array key "password" in /home/wirejybl/leveragefactory.ai/login.php on line 8
+[17-Apr-2026 11:50:13 UTC] PHP Warning:  Undefined array key "email" in /home/wirejybl/leveragefactory.ai/login.php on line 7
+[17-Apr-2026 11:50:13 UTC] PHP Warning:  Undefined array key "password" in /home/wirejybl/leveragefactory.ai/login.php on line 8
+[20-Apr-2026 08:56:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[20-Apr-2026 08:56:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[20-Apr-2026 08:56:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[20-Apr-2026 08:56:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[20-Apr-2026 08:56:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[20-Apr-2026 09:28:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[20-Apr-2026 09:29:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[20-Apr-2026 09:29:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[20-Apr-2026 09:29:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[28-May-2026 21:30:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[28-May-2026 21:30:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[28-May-2026 21:30:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[28-May-2026 21:30:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[28-May-2026 21:30:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[28-May-2026 21:31:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[28-May-2026 21:32:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[28-May-2026 21:32:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[02-Jun-2026 22:25:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[02-Jun-2026 22:27:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[02-Jun-2026 22:28:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[03-Jun-2026 11:01:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[03-Jun-2026 11:03:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[04-Jun-2026 08:58:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[05-Jun-2026 09:10:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[05-Jun-2026 09:14:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[07-Jun-2026 07:52:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[07-Jun-2026 08:42:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[07-Jun-2026 09:21:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[08-Jun-2026 20:59:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 04:18:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 04:21:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 04:23:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 07:44:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 12:02:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 12:02:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 12:34:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 12:34:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 12:35:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 13:57:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 13:58:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 14:49:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[09-Jun-2026 18:32:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[10-Jun-2026 05:02:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[10-Jun-2026 05:03:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94
+[10-Jun-2026 05:03:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'currency_id' cannot be null in /home/wirejybl/leveragefactory.ai/checkout.php:94
+Stack trace:
+#0 /home/wirejybl/leveragefactory.ai/checkout.php(94): PDOStatement->execute()
+#1 {main}
+  thrown in /home/wirejybl/leveragefactory.ai/checkout.php on line 94

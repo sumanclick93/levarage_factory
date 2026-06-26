@@ -1,0 +1,600 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\ajax\libs\gsap\3.12.2\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cryptologos.cc/logos/binance-coin-bnb-logo.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\logos\binance-coin-bnb-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/chainlink-link-logo.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\logos\chainlink-link-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/ethereum-eth-logo.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\logos\ethereum-eth-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/polygon-matic-logo.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\logos\polygon-matic-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/solana-sol-logo.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\logos\solana-sol-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/stellar-xlm-logo.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\logos\stellar-xlm-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/tron-trx-logo.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\logos\tron-trx-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/uniswap-uni-logo.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\logos\uniswap-uni-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/xrp-xrp-logo.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\logos\xrp-xrp-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Inter:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://levfac.psyco.lol/
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\index.htm
+Content Type: text/html
+
+Uri: https://levfac.psyco.lol/category/uncategorized/
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://levfac.psyco.lol/category/uncategorized/feed/
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://levfac.psyco.lol/comments/feed/
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://levfac.psyco.lol/feed/
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://levfac.psyco.lol/fidelity-launches-fidd-stablecoin-on-ethereum-blockchain_/
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\fidelity-launches-fidd-stablecoin-on-ethereum-blockchain_\index.htm
+Content Type: text/html
+
+Uri: https://levfac.psyco.lol/fidelity-launches-fidd-stablecoin-on-ethereum-blockchain_/feed/
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\fidelity-launches-fidd-stablecoin-on-ethereum-blockchain_\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.35.0
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor-pro\assets\css\modules\motion-fx.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor-pro/assets/css/widget-loop-common.min.css?ver=3.35.0
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor-pro\assets\css\widget-loop-common.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor-pro/assets/css/widget-loop-grid.min.css?ver=3.35.0
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor-pro\assets\css\widget-loop-grid.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.35.0
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor-pro/assets/css/widget-post-info.min.css?ver=3.35.0
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor-pro\assets\css\widget-post-info.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.35.0
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.35.0
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.35.0
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.35.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.35.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.35.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.35.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.35.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.35.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.35.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription-view.js?ver=1770669312
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\hostinger-reach\frontend\dist\blocks\subscription-view.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription.css?ver=1770669312
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\plugins\hostinger-reach\frontend\dist\blocks\subscription.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.6
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\themes\hello-elementor\assets\css\header-footer.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.6
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\themes\hello-elementor\assets\css\reset.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.6
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\themes\hello-elementor\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.6
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\themes\hello-elementor\assets\js\hello-frontend.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/1.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\1.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/10.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\10.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/11.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\11.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/12.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\12.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/2.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\2.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/3.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\3.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/4.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\4.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/5.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\5.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/6.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\6.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/7.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\7.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/8.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\8.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/9.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\9.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/bnb.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\bnb.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/btc.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\btc.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/cardfinal3.webm
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\cardfinal3.webm
+Content Type: text/plain
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/dogecoin.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\dogecoin.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/eth.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\eth.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/favico-150x150.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\favico-150x150.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/favico-300x300.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\favico-300x300.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/floki.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\floki.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/imagem_2026-02-10_073804687-300x199.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\imagem_2026-02-10_073804687-300x199.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/imagem_2026-02-10_073804687.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\imagem_2026-02-10_073804687.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/Layer-1.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\Layer-1.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/logo-300x89.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\logo-300x89.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/logo-768x227.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\logo-768x227.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/logo.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\logo.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/pepe.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\pepe.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/solana.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\solana.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/tether.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\tether.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/2026/02/xrp.png
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\2026\02\xrp.png
+Content Type: image/png
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/elementor/css/post-321.css?ver=1770721474
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\elementor\css\post-321.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/elementor/css/post-371.css?ver=1770721797
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\elementor\css\post-371.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/elementor/css/post-401.css?ver=1770721930
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\elementor\css\post-401.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/elementor/css/post-6.css?ver=1770721473
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/elementor/css/post-64.css?ver=1770721474
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\elementor\css\post-64.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-content/uploads/elementor/css/post-7.css?ver=1770721703
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-includes/css/dist/block-library/style.min.css?ver=6.9.1
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://levfac.psyco.lol/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-includes\js\imagesloaded.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://levfac.psyco.lol/wp-json/
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://levfac.psyco.lol/wp-json/oembed/1.0/embed?url=https:%2F%2Flevfac.psyco.lol%2F
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://levfac.psyco.lol/wp-json/oembed/1.0/embed?url=https:%2F%2Flevfac.psyco.lol%2F&format=xml
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://levfac.psyco.lol/wp-json/oembed/1.0/embed?url=https:%2F%2Flevfac.psyco.lol%2Ffidelity-launches-fidd-stablecoin-on-ethereum-blockchain_%2F
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://levfac.psyco.lol/wp-json/oembed/1.0/embed?url=https:%2F%2Flevfac.psyco.lol%2Ffidelity-launches-fidd-stablecoin-on-ethereum-blockchain_%2F&format=xml
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://levfac.psyco.lol/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://levfac.psyco.lol/wp-json/wp/v2/pages/7
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: https://levfac.psyco.lol/wp-json/wp/v2/posts/419
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\wp-json\wp\v2\posts\419
+Content Type: application/json
+
+Uri: https://levfac.psyco.lol/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/airbnb.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\simple-icons\simple-icons\develop\icons\airbnb.svg
+Content Type: image/svg+xml
+
+Uri: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\simple-icons\simple-icons\develop\icons\apple.svg
+Content Type: image/svg+xml
+
+Uri: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netflix.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\simple-icons\simple-icons\develop\icons\netflix.svg
+Content Type: image/svg+xml
+
+Uri: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tesla.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\simple-icons\simple-icons\develop\icons\tesla.svg
+Content Type: image/svg+xml
+
+Uri: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/white/avax.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\spothq\cryptocurrency-icons\master\svg\white\avax.svg
+Content Type: image/svg+xml
+
+Uri: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/white/btc.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\spothq\cryptocurrency-icons\master\svg\white\btc.svg
+Content Type: image/svg+xml
+
+Uri: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/white/eth.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\spothq\cryptocurrency-icons\master\svg\white\eth.svg
+Content Type: image/svg+xml
+
+Uri: https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/svg/white/ltc.svg
+File Name: C:\Downloaded Web Sites\levfac.psyco.lol\spothq\cryptocurrency-icons\master\svg\white\ltc.svg
+Content Type: image/svg+xml
+

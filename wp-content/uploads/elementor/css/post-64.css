@@ -1,0 +1,92 @@
+.elementor-64 .elementor-element.elementor-element-27815cf{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:center;--z-index:5;}.elementor-64 .elementor-element.elementor-element-27815cf:not(.elementor-motion-effects-element-type-background), .elementor-64 .elementor-element.elementor-element-27815cf > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#CCCCCC00;}.elementor-widget-theme-site-logo .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-64 .elementor-element.elementor-element-d76a114 img{width:208px;}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-accent );fill:var( --e-global-color-accent );}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-nav-menu{--e-nav-menu-divider-color:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-64 .elementor-element.elementor-element-8725077 .elementor-menu-toggle{margin:0 auto;}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}/* Start custom CSS for container, class: .elementor-element-27815cf *//* =========================================
+   HEADER: GLASSMORPHISM LIGHT
+========================================= */
+.elementor-64 .elementor-element.elementor-element-27815cf {
+  background: rgba(255, 255, 255, 0.40) !important; /* Vidro mais nítido para o fundo claro */
+  backdrop-filter: blur(18px) saturate(135%);
+  -webkit-backdrop-filter: blur(18px) saturate(135%);
+  box-shadow: 0 6px 20px rgba(11, 31, 42, 0.04);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  z-index: 9999;
+}
+
+/* =========================================
+   MENU: TEXTO MIDNIGHT BLUE
+========================================= */
+.elementor-64 .elementor-element.elementor-element-27815cf .elementor-nav-menu .menu-item a {
+    font-family: 'Inter', sans-serif !important;
+    font-size: 13px !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.12em !important;
+    padding: 10px 15px !important;
+    position: relative;
+    
+    /* Voltando para a cor sólida de autoridade */
+    color: #1A2D42 !important; 
+    mix-blend-mode: normal !important; /* Resetando o blend */
+    
+    transition: color 0.3s ease;
+}
+
+/* Hover: Ciano da Marca */
+.elementor-64 .elementor-element.elementor-element-27815cf .elementor-nav-menu .menu-item a:hover {
+    color: #22E0E8 !important; 
+}
+
+/* =========================================
+   BOTÃO LOGIN: CLEAN TECH STYLE
+========================================= */
+.lf-login-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: 999px;
+
+  /* Borda sutil em Ciano para destacar no fundo claro */
+  border: 1px solid rgba(18, 214, 223, 0.4) !important; 
+  background: rgba(255, 255, 255, 0.5) !important; 
+  
+  color: #1A2D42 !important; /* Texto Midnight Blue */
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  mix-blend-mode: normal !important; /* Resetando o blend */
+  
+  transition: all 0.3s ease;
+}
+
+.lf-login-btn .lf-login-icon {
+  color: #22E0E8 !important; /* Ícone sempre em Ciano para dar o destaque */
+}
+
+/* Hover do Botão: Preenchimento Ciano suave */
+.lf-login-btn:hover {
+  background: rgba(18, 214, 223, 0.1) !important;
+  border-color: #22E0E8 !important;
+  transform: translateY(-1px);
+}
+
+/* =========================================
+   UNDERLINE KINETIC
+========================================= */
+.elementor-64 .elementor-element.elementor-element-27815cf .elementor-nav-menu .menu-item a::after {
+    content: "";
+    position: absolute;
+    bottom: 0; left: 15px; right: 15px; height: 2px;
+    background-color: #22E0E8;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.elementor-64 .elementor-element.elementor-element-27815cf .elementor-nav-menu .menu-item a:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+}/* End custom CSS */

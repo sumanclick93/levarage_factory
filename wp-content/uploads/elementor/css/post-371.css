@@ -1,0 +1,136 @@
+.elementor-371 .elementor-element.elementor-element-c2e5673{--display:flex;--min-height:374px;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--margin-top:-84px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-371 .elementor-element.elementor-element-25428a0{--display:flex;--padding-top:24px;--padding-bottom:26px;--padding-left:0px;--padding-right:0px;}.elementor-widget-theme-post-title .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-371 .elementor-element.elementor-element-9551d91{text-align:center;}.elementor-371 .elementor-element.elementor-element-9551d91 .elementor-heading-title{font-family:"Inter", Sans-serif;font-size:33px;font-weight:600;color:#DBDBDB;}.elementor-371 .elementor-element.elementor-element-711a81b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;}.elementor-371 .elementor-element.elementor-element-1b8dd16{--display:flex;}.elementor-widget-theme-post-excerpt{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-371 .elementor-element.elementor-element-1b83410{font-family:"Inter", Sans-serif;font-weight:400;color:#000000;}.elementor-widget-theme-post-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-371 .elementor-element.elementor-element-f6bd73f{margin:-8px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px;text-align:justify;color:#050505;font-family:"Inter", Sans-serif;font-weight:400;letter-spacing:-0.7px;word-spacing:0px;}.elementor-371 .elementor-element.elementor-element-5131e1e{--display:flex;}.elementor-371 .elementor-element.elementor-element-952d45b{--display:flex;--min-height:473px;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;}@media(min-width:768px){.elementor-371 .elementor-element.elementor-element-1b8dd16{--width:70%;}.elementor-371 .elementor-element.elementor-element-5131e1e{--width:30%;}}/* Start custom CSS *//* =========================================
+   0. BACKGROUND GLOBAL VIVO (ADAPTADO)
+========================================= */
+body.elementor-page-371 {
+    background:
+        /* TOPO ESQUERDO (HEADER) */
+        radial-gradient(520px 360px at 18% 18%, rgba(18, 214, 223, 0.22), transparent 65%),
+        /* DIREITA SUPERIOR */
+        radial-gradient(700px 450px at 78% 28%, rgba(18, 214, 223, 0.30), transparent 65%),
+        /* ESQUERDA INFERIOR */
+        radial-gradient(620px 420px at 24% 72%, rgba(37, 99, 235, 0.22), transparent 65%),
+        /* DIREITA INFERIOR */
+        radial-gradient(520px 360px at 75% 78%, rgba(18, 214, 223, 0.16), transparent 70%),
+        /* BASE */
+        linear-gradient(180deg, #EEF6FB 0%, #FFFFFF 100%);
+    
+    background-attachment: fixed;
+    animation: lf-bg-orbit 38s ease-in-out infinite;
+    position: relative;
+    
+    /* SCROLL FIX: Garante que a página role verticalmente */
+    overflow-y: visible !important;
+    overflow-x: hidden !important;
+}
+
+@keyframes lf-bg-orbit {
+    0%, 100% { background-position: 18% 18%, 78% 28%, 24% 72%, 75% 78%, center; }
+    50% { background-position: 22% 22%, 74% 32%, 28% 68%, 72% 74%, center; }
+}
+
+/* GRID TÉCNICO SUTIL */
+body.elementor-page-371::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background-image: 
+        linear-gradient(rgba(34, 224, 232, 0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(34, 224, 232, 0.05) 1px, transparent 1px);
+    background-size: 45px 45px;
+    background-position: center;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* =========================================
+   1. HERO & FEATURED IMAGE (CROP & ZOOM)
+========================================= */
+body.elementor-page-371 .lf-post-featured-image img {
+    width: 100% !important;
+    height: 550px !important; 
+    object-fit: cover !important; 
+    object-position: center !important;
+    border-radius: 0 0 40px 40px; 
+}
+
+/* =========================================
+   2. CONTAINER DE TÍTULO (DARK GLASS PREMIUM)
+========================================= */
+body.elementor-page-371 .lf-post-header-card {
+    /* Mantido escuro para autoridade sobre o fundo claro */
+    background: rgba(10, 25, 35, 0.70) !important; 
+    backdrop-filter: blur(35px) saturate(160%);
+    -webkit-backdrop-filter: blur(35px) saturate(160%);
+    border: 1px solid rgba(34, 224, 232, 0.2); 
+    border-radius: 30px;
+    padding: 50px 40px;
+    margin-top: -120px; 
+    position: relative;
+    z-index: 10;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 30px 60px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+body.elementor-page-371 .lf-post-title {
+    color: #ffffff !important;
+    font-size: 42px !important;
+    font-weight: 700 !important;
+    line-height: 1.15;
+    margin-bottom: 20px;
+}
+
+body.elementor-page-371 .lf-post-excerpt {
+    color: #22E0E8 !important; /* Ciano em destaque */
+    font-size: 18px !important;
+    line-height: 1.6;
+    font-weight: 500;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+/* =========================================
+   3. CORPO DO TEXTO (MODO CLARO ELITE)
+========================================= */
+body.elementor-page-371 .lf-post-content {
+    max-width: 850px;
+    margin: 0px auto;
+    padding: 0 0px;
+    font-family: 'Inter', sans-serif;
+    position: relative;
+    z-index: 5;
+}
+
+body.elementor-page-371 .lf-post-content p {
+    font-size: 17px;
+    line-height: 1.85;
+    color: #1A2D42; /* Midnight Blue para leitura nítida */
+    margin-bottom: 30px;
+}
+
+body.elementor-page-371 .lf-post-content h2, 
+body.elementor-page-371 .lf-post-content h3 {
+    color: #1A2D42 !important;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+/* =========================================
+   4. PROGRESS BAR & MOBILE
+========================================= */
+body.elementor-page-371::before {
+    content: "";
+    position: fixed;
+    top: 0; left: 0; height: 5px;
+    background: #10b981; /* Verde esmeralda */
+    width: var(--reading-progress, 0%);
+    z-index: 9999;
+}
+
+@media (max-width: 768px) {
+    body.elementor-page-371 .lf-post-header-card { margin-top: -80px; width: 92%; }
+    body.elementor-page-371 .lf-post-title { font-size: 28px !important; }
+}/* End custom CSS */
