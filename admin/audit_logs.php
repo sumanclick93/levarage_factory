@@ -53,7 +53,7 @@ $logs = $pdo->query($query)->fetchAll();
                         </td>
                         <td class="py-4 px-6">
                             <?php if($log['target_user_id']): ?>
-                                <span class="bg-blue-50 text-blue-600 px-2 py-1 rounded text-[10px] font-bold">USER #<?php echo $log['target_user_id']; ?></span>
+                                <a href="view_user.php?id=<?php echo $log['target_user_id']; ?>" class="bg-blue-50 text-blue-600 px-2 py-1 rounded text-[10px] font-bold hover:bg-blue-100 hover:text-blue-700 transition">USER #<?php echo $log['target_user_id']; ?></a>
                             <?php else: ?>
                                 <span class="text-gray-300">—</span>
                             <?php endif; ?>

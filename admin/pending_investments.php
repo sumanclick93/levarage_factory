@@ -207,7 +207,7 @@ $pendings = $pdo->query($query)->fetchAll();
                     ?>
                     <tr class="hover:bg-gray-50 transition">
                         <td class="py-4 px-6">
-                            <div class="font-bold text-gray-900"><?php echo htmlspecialchars($p['username']); ?></div>
+                            <div class="font-bold text-gray-900"><a href="view_user.php?id=<?php echo $p['user_id']; ?>" class="hover:text-[#00A6FB] hover:underline transition-colors"><?php echo htmlspecialchars($p['username']); ?></a></div>
                             <div class="text-[9px] bg-red-100 text-red-700 px-2 py-0.5 rounded-full inline-block font-black uppercase mt-1">
                                 <?php echo htmlspecialchars($p['scheme_name']); ?>
                             </div>

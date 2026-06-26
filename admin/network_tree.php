@@ -138,7 +138,7 @@ function renderDownlineTreeMemory($parent_id, $level = 1) {
                     <span class="text-xs font-black text-[#00A6FB]"><?php echo $level; ?></span>
                 </div>
                 <div>
-                    <p class="font-black uppercase italic text-gray-900 tracking-tighter"><?php echo htmlspecialchars($m['username']); ?></p>
+                    <p class="font-black uppercase italic text-gray-900 tracking-tighter"><a href="view_user.php?id=<?php echo $mid; ?>" class="hover:text-[#00A6FB] hover:underline transition-colors"><?php echo htmlspecialchars($m['username']); ?></a></p>
                     <p class="text-[9px] text-gray-400 font-bold">UID: <?php echo $mid; ?></p>
                 </div>
             </div>
@@ -260,7 +260,7 @@ function renderDownlineTreeMemory($parent_id, $level = 1) {
             <div class="flex items-center gap-6">
                 <div class="w-16 h-16 bg-[#00A6FB] rounded-[1.5rem] flex items-center justify-center text-white font-black text-xl shadow-[0_0_30px_rgba(0,166,251,0.3)]">LF</div>
                 <p class="text-white text-2xl font-black uppercase italic tracking-tighter">
-                    <?php echo htmlspecialchars($logged_user['username']); ?> Node_
+                    <a href="view_user.php?id=<?php echo $user_id; ?>" class="hover:text-[#00A6FB] hover:underline transition-colors"><?php echo htmlspecialchars($logged_user['username']); ?></a> Node_
                 </p>
             </div>
         </div>

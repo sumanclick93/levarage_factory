@@ -283,7 +283,7 @@ $users = $pdo->query($query)->fetchAll();
                         data-search="<?php echo htmlspecialchars($user['username'] . ' ' . $user['email']); ?>">
                         
                         <td class="py-4 px-6">
-                            <div class="font-black text-gray-900"><?php echo htmlspecialchars($user['username']); ?></div>
+                            <div class="font-black text-gray-900"><a href="view_user.php?id=<?php echo $user['id']; ?>" class="hover:text-[#00A6FB] hover:underline transition-colors"><?php echo htmlspecialchars($user['username']); ?></a></div>
                             <div class="text-[10px] text-[#00A6FB] font-bold">REFID: <?php echo $user['referral_code']; ?></div>
                             <div class="text-[10px] text-gray-400 font-bold uppercase">Upline: <?php echo $user['sponsor_name'] ?? 'MASTER_ROOT'; ?></div>
                         </td>

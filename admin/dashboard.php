@@ -52,7 +52,7 @@ $stmt_ind = $pdo->query("
 $total_individual = $stmt_ind->fetchColumn() ?: 0;
 
 // 3. Recent Activity (Latest 5 Users)
-$recent_users = $pdo->query("SELECT username, email, created_at FROM users ORDER BY created_at DESC LIMIT 5")->fetchAll();
+$recent_users = $pdo->query("SELECT id, username, email, created_at FROM users ORDER BY created_at DESC LIMIT 5")->fetchAll();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -136,7 +136,7 @@ $recent_users = $pdo->query("SELECT username, email, created_at FROM users ORDER
                     <tbody class="divide-y divide-gray-100">
                         <?php foreach($recent_users as $user): ?>
                         <tr class="hover:bg-gray-50 transition">
-                            <td class="py-3 px-6 text-sm font-medium text-gray-900"><?php echo htmlspecialchars($user['username']); ?></td>
+                            <td class="py-3 px-6 text-sm font-medium text-gray-900"><a href="view_user.php?id=<?php echo $user['id']; ?>" class="hover:text-[#00A6FB] hover:underline transition-colors"><?php echo htmlspecialchars($user['username']); ?></a></td>
                             <td class="py-3 px-6 text-xs text-gray-400"><?php echo htmlspecialchars($user['email']); ?></td>
                             <td class="py-3 px-6 text-xs text-gray-400 text-right"><?php echo date('M d', strtotime($user['created_at'])); ?></td>
                         </tr>

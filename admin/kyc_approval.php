@@ -44,7 +44,7 @@ $pending_kyc = $pdo->query("SELECT * FROM users WHERE kyc_status = 'pending' AND
                 <div class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm">
                     <div class="flex justify-between items-start mb-4">
                         <div>
-                            <h3 class="font-bold text-lg"><?php echo $user['username']; ?></h3>
+                            <h3 class="font-bold text-lg"><a href="view_user.php?id=<?php echo $user['id']; ?>" class="hover:text-[#00A6FB] hover:underline transition-colors"><?php echo htmlspecialchars($user['username']); ?></a></h3>
                             <p class="text-sm text-gray-500"><?php echo $user['email']; ?></p>
                         </div>
                         <span class="bg-yellow-100 text-yellow-700 px-3 py-1 rounded-full text-xs font-bold uppercase">Pending Review</span>

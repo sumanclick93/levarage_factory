@@ -48,11 +48,10 @@ if($filter === 'investment'){
         $tx_query .= " AND (s.type != 'corporate' AND s.name NOT LIKE '%corporate%') AND (IFNULL(i.hash_ref, '') LIKE '%COMPANY%' OR IFNULL(i.hash_ref, '') LIKE '%ADMIN_ASSIGNED%')";
     }
 
-    $tx_query .= " ORDER BY i.created_at DESC LIMIT :limit";
+    $tx_query .= " ORDER BY i.created_at DESC LIMIT " . $limit;
 
     $tx_stmt = $pdo->prepare($tx_query);
     $tx_stmt->bindValue(':uid', $uid, PDO::PARAM_INT);
-    $tx_stmt->bindValue(':limit', (int)$limit, PDO::PARAM_INT);
     $tx_stmt->execute();
     $all_transactions = $tx_stmt->fetchAll();
 
@@ -84,7 +83,7 @@ if($filter === 'investment'){
         $tx_params['filter_type'] = $filter;
     }
 
-    $tx_query .= " ORDER BY created_at DESC LIMIT :limit";
+    $tx_query .= " ORDER BY created_at DESC LIMIT " . $limit;
 
     $tx_stmt = $pdo->prepare($tx_query);
     $tx_stmt->bindValue(':uid', $uid, PDO::PARAM_INT);
@@ -93,7 +92,6 @@ if($filter === 'investment'){
         $tx_stmt->bindValue(':filter_type', $tx_params['filter_type'], PDO::PARAM_STR);
     }
 
-    $tx_stmt->bindValue(':limit', (int)$limit, PDO::PARAM_INT);
     $tx_stmt->execute();
     $all_transactions = $tx_stmt->fetchAll();
 }
@@ -103,6 +101,10 @@ if($filter === 'investment'){
 $stmt = $pdo->prepare("SELECT u.*, s.username as sponsor_name, s.id as sponsor_id FROM users u LEFT JOIN users s ON u.referrer_id = s.id WHERE u.id = ?");
 $stmt->execute([$uid]);
 $user_data = $stmt->fetch();
+
+if (!$user_data) {
+    die("User not found.");
+}
 
 // 1. Fetch User Profile
 $stmt = $pdo->prepare("SELECT username, wallet_balance, referral_code, created_at, referrer_id FROM users WHERE id = ?");
@@ -309,64 +311,72 @@ $stmt_with_net = $pdo->prepare("SELECT SUM(amount) FROM transactions WHERE user_
 
 $my_path_depth_net = empty($my_path_net) ? 0 : count(explode('/', $my_path_net));
 
+$filtered_referrals = [];
 foreach ($referrals_net as $ref) {
     $ref_depth = empty($ref['path']) ? 0 : count(explode('/', $ref['path']));
     $level = $ref_depth - $my_path_depth_net;
     
     if ($level >= 1 && $level <= 10) {
-        $ref_user_id = $ref['id'];
-        $ref_username = $ref['username'];
-        $ref_email = $ref['email'];
-
-        $stmt_vol_net->execute([$ref_user_id, $ref_user_id, $ref_user_id]);
-        $vol = (float)$stmt_vol_net->fetchColumn();
-
-        $stmt_personal_net->execute([$ref_user_id]);
-        $personal_inv = (float)$stmt_personal_net->fetchColumn();
-
-        $stmt_corporate_net->execute([$ref_user_id]);
-        $corporate_inv = (float)$stmt_corporate_net->fetchColumn();
-
-        $stmt_matching_net->execute([$ref_user_id]);
-        $matching_inv = (float)$stmt_matching_net->fetchColumn();
-
-        $stmt_roi_net->execute([$ref_user_id]);
-        $roi = (float)$stmt_roi_net->fetchColumn();
-
-        $stmt_fast_net->execute([$ref_user_id]);
-        $fast = (float)$stmt_fast_net->fetchColumn();
-
-        $stmt_res_net->execute([$ref_user_id]);
-        $res = (float)$stmt_res_net->fetchColumn();
-
-        $stmt_with_net->execute([$ref_user_id]);
-        $with = (float)$stmt_with_net->fetchColumn();
-
-        $net_user_details[] = [
-            'id' => $ref_user_id,
-            'username' => $ref_username,
-            'email' => $ref_email,
-            'level' => $level,
-            'personal_inv' => $personal_inv,
-            'corporate_inv' => $corporate_inv,
-            'matching_bonus' => $matching_inv,
-            'roi' => $roi,
-            'residual' => $res,
-            'faststart' => $fast,
-            'withdrawal' => $with,
-            'volume' => $vol
-        ];
+        $ref['level'] = $level;
+        $filtered_referrals[] = $ref;
     }
 }
 
-usort($net_user_details, function($a, $b) {
+usort($filtered_referrals, function($a, $b) {
     if ($a['level'] == $b['level']) {
         return $a['id'] <=> $b['id'];
     }
     return $a['level'] <=> $b['level'];
 });
 
-$net_user_details_sliced = array_slice($net_user_details, 0, $net_limit);
+$net_user_details_sliced = [];
+$sliced_referrals = array_slice($filtered_referrals, 0, $net_limit);
+
+foreach ($sliced_referrals as $ref) {
+    $ref_user_id = $ref['id'];
+    $ref_username = $ref['username'];
+    $ref_email = $ref['email'];
+    $level = $ref['level'];
+
+    $stmt_vol_net->execute([$ref_user_id, $ref_user_id, $ref_user_id]);
+    $vol = (float)$stmt_vol_net->fetchColumn();
+
+    $stmt_personal_net->execute([$ref_user_id]);
+    $personal_inv = (float)$stmt_personal_net->fetchColumn();
+
+    $stmt_corporate_net->execute([$ref_user_id]);
+    $corporate_inv = (float)$stmt_corporate_net->fetchColumn();
+
+    $stmt_matching_net->execute([$ref_user_id]);
+    $matching_inv = (float)$stmt_matching_net->fetchColumn();
+
+    $stmt_roi_net->execute([$ref_user_id]);
+    $roi = (float)$stmt_roi_net->fetchColumn();
+
+    $stmt_fast_net->execute([$ref_user_id]);
+    $fast = (float)$stmt_fast_net->fetchColumn();
+
+    $stmt_res_net->execute([$ref_user_id]);
+    $res = (float)$stmt_res_net->fetchColumn();
+
+    $stmt_with_net->execute([$ref_user_id]);
+    $with = (float)$stmt_with_net->fetchColumn();
+
+    $net_user_details_sliced[] = [
+        'id' => $ref_user_id,
+        'username' => $ref_username,
+        'email' => $ref_email,
+        'level' => $level,
+        'personal_inv' => $personal_inv,
+        'corporate_inv' => $corporate_inv,
+        'matching_bonus' => $matching_inv,
+        'roi' => $roi,
+        'residual' => $res,
+        'faststart' => $fast,
+        'withdrawal' => $with,
+        'volume' => $vol
+    ];
+}
 ?>
 
 <!DOCTYPE html>
@@ -699,7 +709,7 @@ $net_user_details_sliced = array_slice($net_user_details, 0, $net_limit);
                         <?php foreach ($net_user_details_sliced as $u): ?>
                         <tr class="detailed-row hover:bg-gray-50/50 transition-colors whitespace-nowrap" data-level="<?php echo $u['level']; ?>">
                             <td class="p-6">
-                                <div class="font-bold text-gray-900"><?php echo htmlspecialchars($u['username']); ?></div>
+                                <div class="font-bold text-gray-900"><a href="view_user.php?id=<?php echo $u['id']; ?>" class="hover:text-[#00A6FB] hover:underline transition-colors"><?php echo htmlspecialchars($u['username']); ?></a></div>
                                 <div class="text-[10px] font-black text-gray-400 uppercase tracking-widest mt-0.5">UID: <?php echo htmlspecialchars($u['id']); ?></div>
                             </td>
                             <td class="p-6 text-sm font-bold text-gray-600 italic">Level <?php echo $u['level']; ?></td>

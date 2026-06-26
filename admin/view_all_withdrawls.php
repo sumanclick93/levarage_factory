@@ -145,7 +145,7 @@ class="border px-4 py-2 rounded-lg text-sm">
 <tr>
 
 <td class="font-bold">
-<?php echo htmlspecialchars($w['username']); ?>
+<a href="view_user.php?id=<?php echo $w['user_id']; ?>" class="hover:text-[#00A6FB] hover:underline transition-colors"><?php echo htmlspecialchars($w['username']); ?></a>
 </td>
 
 <td class="text-xs">

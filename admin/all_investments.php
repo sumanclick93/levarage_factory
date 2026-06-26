@@ -136,7 +136,7 @@ $investments = $stmt->fetchAll();
                             <?php echo date('M d, Y', strtotime($inv['payout_started_at'])); ?>
                         </td>
                         <td class="py-4 px-6 whitespace-nowrap">
-                            <div class="font-bold text-gray-900"><?php echo htmlspecialchars($inv['username']); ?></div>
+                            <div class="font-bold text-gray-900"><a href="view_user.php?id=<?php echo $inv['user_id']; ?>" class="hover:text-[#00A6FB] hover:underline transition-colors"><?php echo htmlspecialchars($inv['username']); ?></a></div>
                             <div class="text-[10px] text-[#00A6FB] font-bold uppercase"><?php echo htmlspecialchars($inv['scheme_name']); ?></div>
                         </td>
                         <td class="py-4 px-6 whitespace-nowrap">

@@ -326,7 +326,7 @@ $requests = $pdo->query($query)->fetchAll();
                     <?php foreach($requests as $r): ?>
                     <tr class="hover:bg-gray-50/50 transition">
                         <td class="py-4 px-6">
-                            <div class="font-black text-gray-900 uppercase tracking-tighter"><?php echo htmlspecialchars($r['username']); ?></div>
+                            <div class="font-black text-gray-900 uppercase tracking-tighter"><a href="view_user.php?id=<?php echo $r['user_id']; ?>" class="hover:text-[#00A6FB] hover:underline transition-colors"><?php echo htmlspecialchars($r['username']); ?></a></div>
                         </td>
                         <td class="py-4 px-6">
                             <div class="font-mono font-black text-red-600 text-lg">-$<?php echo number_format($r['amount'], 2); ?></div>
